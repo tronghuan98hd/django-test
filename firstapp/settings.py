@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$f3ysbbg&$c%biclxhpe6+hhm#z+kqyv=w*i@umm+ysu8fh&v!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['maihv.click']
 
 
 # Application definition
