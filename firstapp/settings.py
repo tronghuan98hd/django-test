@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['maihv.click', '0.0.0.0']
 
+CSRF_TRUSTED_ORIGINS = ['https://maihv.click']
 
 # Application definition
 
